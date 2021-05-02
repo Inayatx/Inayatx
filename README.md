@@ -9,24 +9,26 @@
 - 🔭 Take a look at TinDog: [Tinder for Dogs!][TinDog]!
 - 🌱 I’m currently learning everything 🤣
 - 🔎 I’m looking for software developer roles.
-- 🥅 2021 Goals: Become a Full Stack Developer.
 - ⚡ Fun fact: I love to eat Biryani.
 <br><br>
 
 <details>
-  <summary><b>:telescope: 2020 goal</b></summary>
-  I want to make a little game this year.<br>I'm currently working on a small gameboy game with <a href="https://github.com/tfgrimes">@tfgrimes</a> using <a href="https://github.com/chrismaltby/gb-studio">GBStudio.dev</a>, which is an awesome game creator tool that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
+
+  <summary><b>  🥅 2021 goal</b></summary>
+  I want to learn Web-development this year.<br>I'm currently Learning and making projects using the languages I am learning along the way which is awesome, exciting and challenging at the same time. I'm hoping to print this on a cartridge when I'm done so you can actually experience it on your screen!
 </details>
 
-
+<details>
 ### Connect with me:
 
 [<img align="left" alt="Inayatx | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Inayatx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Inayatx | Email" width="22px" src="https://simpleicons.org/icons/minutemailer.svg" />][Email]
+</details>
 
 <br />
 
+<details>
 ### Languages and Tools:
 
 <img align="left" alt="Atom Text Editor" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
@@ -37,7 +39,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-
+</details>
 <br />
 <br />
 
