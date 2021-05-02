@@ -3,9 +3,10 @@
 ## I'm a Son, Engineer, Developer, and Learner!!
 - 🔭 Take a look at TinDog: [Tinder for Dogs!][TinDog]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for software developer roles.
+- 🔎 I’m looking for software developer roles.
 - 🥅 2021 Goals: Become a Full Stack Developer.
 - ⚡ Fun fact: I love to eat Biryani.
+
 ### Connect with me:
 [<img align="left" alt="Inayatx | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Inayatx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
