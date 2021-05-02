@@ -18,11 +18,6 @@
   I want to learn Web-development this year.<br>I'm currently Learning and making projects using the languages I am learning along the way which is awesome, exciting and challenging at the same time. I'm hoping to print this on a cartridge when I'm done so you can actually experience it on your screen!
 </details>
 
- ### Connect with me:
-[<img align="left" alt="Inayatx | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Inayatx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Inayatx | Email" width="22px" src="https://simpleicons.org/icons/minutemailer.svg" />][Email]
-</details>
 
 <br />
 
@@ -38,7 +33,15 @@
 <img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 </details>
 <br />
+
+ ### Connect with me:
+[<img align="left" alt="Inayatx | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Inayatx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Inayatx | Email" width="22px" src="https://simpleicons.org/icons/minutemailer.svg" />][Email]
+</details>
 <br />
+<br />
+
 
 ---
 
