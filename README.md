@@ -18,7 +18,7 @@
  I want to learn Fullstack development this year.
 I'm currently learning and making projects using the technologies which I get to learn along the way and this is awesome and challenging like a Pikachu doing surfing. I'm hoping to print this on a cartridge when I'm done so you can virtually experience it on your screen!
 <br><br>
-    <p><img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"></p>
+    <palign="center"><img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"></p>
     <br><br>
 </details>
 
