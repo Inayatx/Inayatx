@@ -13,7 +13,7 @@
 
 [<img align="left" alt="Inayatx | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Inayatx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Inayatx | Email" width="22px" src="<i class="fas fa-envelope"></i>/>][Email]
+[<img align="left" alt="Inayatx | Email" width="22px" src="https://simpleicons.org/icons/minutemailer.svg/>][Email]
 
 <br />
 
