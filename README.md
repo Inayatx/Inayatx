@@ -26,6 +26,7 @@
 <br />
 <br />
 ---
+
 [website]: https://inayatx.github.io/website/
 [TinDog]: https://inayatx.github.io/TinDog/
 [Email]: mailto:inayatagaria@gmail.com
