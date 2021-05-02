@@ -19,8 +19,7 @@
 </details>
 
 <details>
-### Connect with me:
-
+  <summary><b> Connect with me: </b></summary>
 [<img align="left" alt="Inayatx | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Inayatx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Inayatx | Email" width="22px" src="https://simpleicons.org/icons/minutemailer.svg" />][Email]
@@ -29,8 +28,7 @@
 <br />
 
 <details>
-### Languages and Tools:
-
+  <summary><b> Languages and Tools: </b></summary>
 <img align="left" alt="Atom Text Editor" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
